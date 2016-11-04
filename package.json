@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SuperCoac/passport-steam-example.git"
+    "url": "https://github.com/Coac/passport-steam-example.git"
   },
   "keywords": [
     "passport-steam"
@@ -24,7 +24,7 @@
   "author": "Victor Le",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SuperCoac/passport-steam-example/issues"
+    "url": "https://github.com/Coac/passport-steam-example/issues"
   },
-  "homepage": "https://github.com/SuperCoac/passport-steam-example"
+  "homepage": "https://github.com/Coac/passport-steam-example"
 }
